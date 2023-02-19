@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Pharma**
+- 🔭 I’m currently working on **iCan Meta**
 
 - 🌱 I’m currently learning **React,Express**
 
 - 👯 I’m looking to collaborate on **CommunityRetreat**
 
-- 💬 Ask me about **React,Express,C,Cpp,**
+- 💬 Ask me about **React,Express,C,Cpp,Objective c,Swift UI**
 
 - 📫 How to reach me **dewanarayanamanuka@gmail.com**
 
